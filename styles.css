@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Quintessential" rel="stylesheet");
+@import url("font-awesome.min.css");
+*{  box-sizing: border-box;
+}
+html { 
+	background: url("raindrops.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+} 
+#name{
+	color: white;	
+}
+#name{
+	
+	margin: auto;    
+	padding: 10px;
+	text-align: center;
+	width: 50%;
+}
+#welcome{
+	margin: auto;    
+	padding: 10px;
+	text-align: center;
+
+	width: 50%;
+
+}
+#qpic{ 
+	border-radius: 100px 100px 100px 100px;
+	float: left;
+	margin: 0px 0px 15px 20px;
+}
+.topNv ul li a{
+	color: white;
+}
+
+.topNv ul{
+	float: right;
+	color: white;
+}
+
+.topNv ul {
+    border: 1px solid purple;
+}
+
+.topNv li {
+    text-align: center;
+    border-bottom: 1px solid purple;
+    font-color: white;
+    list-style: none;
+   
+}
+
+.topNv li:last-child {
+    border-bottom: none;
+}
+.topNv li a:hover {
+    background-color: #555;
+    color: orange;}
+
+
+.theMeat{
+	color: white;
+}
+footer{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
